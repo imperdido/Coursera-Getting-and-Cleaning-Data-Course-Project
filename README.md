@@ -18,7 +18,8 @@ The files included with this project:
 run_analysis.R -> This script requires the above mentioned dataset to be downloaded into the
 R working directory. 
 
-It does the following steps on the data set files:
+Does the following steps on the data set files:
+======================================
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
